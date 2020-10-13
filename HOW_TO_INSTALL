@@ -1,0 +1,6 @@
+
+Type:
+
+pip install -e "./pivToolBox_package_2018"
+
+from the directory above the one this file your reading is in.
